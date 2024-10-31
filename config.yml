@@ -183,5 +183,5 @@ messages:
 #   - Username2
 
 books:                                    # Names of the opening books (to be used above in the opening_books section) and paths to the opening books.
-  DefaultBook: "/engines/Morphy.bin"
+  DefaultBook: "/engines/morphy.bin"
   
